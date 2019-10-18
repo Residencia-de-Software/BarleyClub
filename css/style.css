@@ -1,0 +1,14 @@
+@font-face { 
+    font-family: carnevalee;
+    src: url('../font/carnevalee-freakshow.ttf');
+}
+.navbar {
+    background-color: #8A340A;
+}
+.navbar .navbar-brand{
+    font-family: carnevalee;
+    font-size: 25px;
+}
+/*.carousel-indicators li{
+    background: url(../img/logo-sm.png);
+}*/
